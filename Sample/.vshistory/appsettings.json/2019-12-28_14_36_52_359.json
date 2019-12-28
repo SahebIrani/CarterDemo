@@ -1,0 +1,17 @@
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Warning",
+            "Microsoft.Hosting.Lifetime": "Information"
+        }
+    },
+    "AllowedHosts": "*",
+
+    "CarterOptions": {
+        "OpenApi": {
+            "DocumentTitle": "SinjulMSBH CarterDemo OpenApi .. !!!!",
+            "ServerUrls": "https://localhost:5001"
+        }
+    }
+}
